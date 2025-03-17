@@ -2,7 +2,7 @@
 line-length = 120
 target-version = "py311"
 select = ["E", "F", "I", "UP"]
-ignore = ["D203"]
+ignore = ["D203", "E501", "E402"]
 
 [tool.black]
 line-length = 120

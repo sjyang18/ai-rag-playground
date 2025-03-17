@@ -1,6 +1,5 @@
 import os
 
-import autogen
 from autogen import AssistantAgent, UserProxyAgent, register_function
 from autogen.cache import Cache
 from azure.identity import DefaultAzureCredential, get_bearer_token_provider

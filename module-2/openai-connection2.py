@@ -3,7 +3,6 @@ import os
 from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage
 from langchain_openai import AzureChatOpenAI, AzureOpenAIEmbeddings
-from openai import AzureOpenAI
 
 load_dotenv()
 
