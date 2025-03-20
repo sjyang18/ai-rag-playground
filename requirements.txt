@@ -7,4 +7,4 @@ langchain-community==0.3.19
 python-dotenv==1.0.1
 beautifulsoup4==4.12.3
 autogen-agentchat~=0.2
-autogen==0.8.1
+autogen==0.8.3
